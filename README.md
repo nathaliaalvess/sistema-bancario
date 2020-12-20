@@ -14,11 +14,11 @@
 #### Start das aplicações:
 - Na pasta principal existe um docker-compose que subirá localmente os serviços necessários para startar as aplicações;
 - As aplicações estão configuradas para rodas nas portas:
-		cliente : 8080
-		consulta : 8084
-		conta : 8081
-		cheque-especial : 8082
-		cartao-credito : 8083
+	- cliente : 8080
+	- consulta : 8084
+	- conta : 8081
+	- cheque-especial : 8082
+	- cartao-credito : 8083
 - Para testar os serviços basta acessar:
-		cliente : localhost:8080
-		consulta : localhost:8084 
+	- cliente : localhost:8080
+	- consulta : localhost:8084 
